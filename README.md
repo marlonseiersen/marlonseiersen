@@ -1,3 +1,5 @@
+![image](https://i.pinimg.com/1200x/7b/08/b0/7b08b059d7ab1dc3d204dd94aee8b985.jpg)
+
 <h1 align="center">Hi 👋, I'm Marlon</h1>
 <h3 align="center">A passionate frontend developer from Denmark</h3>
 
