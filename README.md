@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**marlonseiersen/marlonseiersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **TIMEPRINT**.
 
-Here are some ideas to get you started:
+Currently building a startup focused on helping people understand how they spend their time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Building TIMEPRINT
+- Branding & product vision
+- Business development & growth
+- Exploring AI and new technologies
+
+### Current focus
+Turning ideas into real products.
+
+---
